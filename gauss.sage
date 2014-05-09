@@ -13,3 +13,5 @@ class GaussianRational:
         return 'I'm crazy'
     def math480is(self):
         return 'Math 480 is incredible!'
+    def mult():
+        return self.x*self.y
