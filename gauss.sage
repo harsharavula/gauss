@@ -15,3 +15,5 @@ class GaussianRational:
         return 'Math 480 is incredible!'
     def mult():
         return self.x*self.y
+    def fasdfsad 
+        ret adsf34
